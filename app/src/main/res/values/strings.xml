@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SerpentarioApp</string>
+    <string name="SerpentarioApp">Serpentario App</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Contraseña">Contraseña</string>
+</resources>
